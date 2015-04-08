@@ -4,7 +4,7 @@
 
 Data acquisition script with matplotlib and wxpython.
 
-@author: Juan Beiroa, jbeiroa@gmail.com
+@author: Juan Beiroa.
 
 Every one second, the app tells an Arduino (arduino.py) to make a 
 measurement and send it to the computer for plotting and logging. 
